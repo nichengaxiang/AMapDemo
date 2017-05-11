@@ -1,4 +1,4 @@
-# ShawnWang
+# AMapDemo
 
 > AMap Demo Repository
 
